@@ -32,4 +32,3 @@ yarn install
 Start the React development server: Run the following command to start the React app in development mode:
 yarn dev
 Your React frontend will be running at http://localhost:5173. run this url on browser
-# media_management
